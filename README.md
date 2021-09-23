@@ -38,3 +38,6 @@
 ```bash
 $ git config --global core.excludesfile ~/.config/git/ignore
 ```
+
+## Emoji fonts
+[Nerdfonts](https://www.nerdfonts.com/cheat-sheet)```
